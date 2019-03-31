@@ -1,0 +1,8 @@
+.vscode/ipch/
+测试文件夹/
+*.swp
+*.exe
+*.ilk
+*.obj
+*.pdb
+

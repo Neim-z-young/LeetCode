@@ -1,0 +1,22 @@
+{
+    "python.pythonPath": "D:\\Program Files\\Python37\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "files.associations": {
+        "iostream": "cpp",
+        "istream": "cpp",
+        "ostream": "cpp",
+        "ios": "cpp",
+        "xlocnum": "cpp",
+        "vector": "cpp",
+        "string": "cpp",
+        "algorithm": "cpp",
+        "hash_map": "cpp",
+        "unordered_map": "cpp",
+        "xhash": "cpp",
+        "xstring": "cpp",
+        "xutility": "cpp",
+        "stack": "cpp",
+        "cstdlib": "cpp"
+    }
+}
