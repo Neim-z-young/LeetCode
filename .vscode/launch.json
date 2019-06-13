@@ -8,7 +8,7 @@
             "name": "(Windows) Launch",
             "type": "cppvsdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/cpp/30. Substring with Concatenation of All Words/4滑动窗口.exe",
+            "program": "${workspaceFolder}/cpp/43. Multiply Strings/1k位乘法.exe",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",

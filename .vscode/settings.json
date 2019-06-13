@@ -17,6 +17,7 @@
         "xstring": "cpp",
         "xutility": "cpp",
         "stack": "cpp",
-        "cstdlib": "cpp"
+        "cstdlib": "cpp",
+        "iosfwd": "cpp"
     }
 }
