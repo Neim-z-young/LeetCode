@@ -1,0 +1,11 @@
+# Write your MySQL query statement below
+SELECT DISTINCT A.Email FROM PERSON AS A
+WHERE 1<(SELECT COUNT(*) FROM PERSON AS B
+            WHERE A.EMAIL = B.EMAIL
+        );
+
+### 使用临时表
+SELECT A.Email FROM (SELECT DISTINCT EMAIL FROM PERSON) AS A
+WHERE 1<(SELECT COUNT(*) FROM PERSON AS B
+            WHERE A.EMAIL = B.EMAIL
+        );
