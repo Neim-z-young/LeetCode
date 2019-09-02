@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/44. Wildcard Matching/44. Wildcard Matching.iml" filepath="$PROJECT_DIR$/44. Wildcard Matching/44. Wildcard Matching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/45. Jump Game II/45. Jump Game II.iml" filepath="$PROJECT_DIR$/45. Jump Game II/45. Jump Game II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/46. Permutations/46. Permutations.iml" filepath="$PROJECT_DIR$/46. Permutations/46. Permutations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/47. Permutations II/47. Permutations II.iml" filepath="$PROJECT_DIR$/47. Permutations II/47. Permutations II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java.iml" filepath="$PROJECT_DIR$/java.iml" />
+    </modules>
+  </component>
+</project>
