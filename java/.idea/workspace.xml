@@ -2,13 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7868326-51fc-489e-aebf-e5115f24f00e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/44. Wildcard Matching/src/com/oyoungy/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/45. Jump Game II/src/com/oyoungy/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/46. Permutations/src/com/oyoungy/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/47. Permutations II/src/com/oyoungy/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/../.vscode/launch.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cpp/10.正则表达式匹配/regexMatch.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/10.正则表达式匹配/regexMatch.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1. 两数之和/使用hashmap.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/48. Rotate Image/48. Rotate Image.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/48. Rotate Image/src/com/oyoungy/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/49. Group Anagrams/49. Group Anagrams.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/49. Group Anagrams/src/com/oyoungy/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/50. Pow(x, n)/50. Pow(x, n).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/50. Pow(x, n)/src/com/oyoungy/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/51. N-Queens/51. N-Queens.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/51. N-Queens/src/com/oyoungy/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/52. N-Queens II/52. N-Queens II.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/52. N-Queens II/src/com/oyoungy/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,12 +26,12 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/47. Permutations II/src/com/oyoungy/Solution.java">
+        <entry file="file://$PROJECT_DIR$/51. N-Queens/src/com/oyoungy/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="580">
-              <caret line="24" column="38" lean-forward="true" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+            <state relative-caret-position="190">
+              <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -35,10 +40,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/46. Permutations/src/com/oyoungy/Solution.java">
+        <entry file="file://$PROJECT_DIR$/52. N-Queens II/src/com/oyoungy/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="365">
-              <caret line="33" column="35" lean-forward="true" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
+            <state relative-caret-position="500">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -47,10 +52,27 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://H:/mylibpath/java-source-code/src/java.base/java/util/ArrayList.java">
+        <entry file="file://H:/mylibpath/java-source-code/src/java.base/java/util/HashMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4">
-              <caret line="151" column="11" selection-start-line="151" selection-start-column="11" selection-end-line="151" selection-end-column="11" />
+            <state relative-caret-position="380">
+              <caret line="242" column="48" selection-start-line="242" selection-start-column="48" selection-end-line="242" selection-end-column="48" />
+              <folding>
+                <element signature="e#24220#24221#0" expanded="true" />
+                <element signature="e#24285#24286#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://H:/mylibpath/java-source-code/src/java.base/java/util/Random.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2325">
+              <caret line="126" column="59" selection-start-line="126" selection-start-column="59" selection-end-line="126" selection-end-column="59" />
+              <folding>
+                <element signature="e#3513#3514#0" expanded="true" />
+                <element signature="e#3571#3572#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -74,6 +96,11 @@
         <option value="$PROJECT_DIR$/45. Jump Game II/src/com/oyoungy/Solution.java" />
         <option value="$PROJECT_DIR$/46. Permutations/src/com/oyoungy/Solution.java" />
         <option value="$PROJECT_DIR$/47. Permutations II/src/com/oyoungy/Solution.java" />
+        <option value="$PROJECT_DIR$/48. Rotate Image/src/com/oyoungy/Solution.java" />
+        <option value="$PROJECT_DIR$/49. Group Anagrams/src/com/oyoungy/Solution.java" />
+        <option value="$PROJECT_DIR$/50. Pow(x, n)/src/com/oyoungy/Solution.java" />
+        <option value="$PROJECT_DIR$/51. N-Queens/src/com/oyoungy/Solution.java" />
+        <option value="$PROJECT_DIR$/52. N-Queens II/src/com/oyoungy/Solution.java" />
       </list>
     </option>
   </component>
@@ -85,22 +112,11 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/46. Permutations/46. Permutations.iml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/44. Wildcard Matching/44. Wildcard Matching.iml" />
-        <option value="$PROJECT_DIR$/45. Jump Game II/45. Jump Game II.iml" />
-        <option value="$PROJECT_DIR$/47. Permutations II/47. Permutations II.iml" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="545" />
-    <option name="y" value="80" />
-    <option name="width" value="1057" />
-    <option name="height" value="872" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1440" />
+    <option name="height" value="780" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -108,6 +124,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Course" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -118,36 +136,18 @@
             <path>
               <item name="java" type="b2602c69:ProjectViewProjectNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="46. Permutations" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="46. Permutations" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="46. Permutations" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="oyoungy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="47. Permutations II" type="462c0819:PsiDirectoryNode" />
+              <item name="52. N-Queens II" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -165,7 +165,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (1)">
+  <component name="RunManager" selected="Application.Solution (5)">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.oyoungy.Solution" />
       <module name="44. Wildcard Matching" />
@@ -173,17 +173,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.oyoungy.Solution" />
-      <module name="46. Permutations" />
+      <module name="48. Rotate Image" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.oyoungy.Solution" />
+      <module name="49. Group Anagrams" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.oyoungy.Solution" />
+      <module name="50. Pow(x, n)" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.oyoungy.Solution" />
+      <module name="51. N-Queens" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (5)" />
+        <item itemvalue="Application.Solution (4)" />
+        <item itemvalue="Application.Solution (3)" />
+        <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -200,29 +224,29 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Educational.CheckDetails" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49889624" visible="true" weight="0.2238806" />
+      <window_info id="Structure" order="1" sideWeight="0.50110376" side_tool="true" visible="true" weight="0.2238806" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.121412806" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.19536424" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32781458" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2571744" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3289183" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
     </layout>
   </component>
   <component name="XDebuggerManager">
@@ -246,21 +270,53 @@
           <properties />
           <option name="timeStamp" value="7" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/48. Rotate Image/src/com/oyoungy/Solution.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="j==326" language="JAVA" />
+          <url>file://$PROJECT_DIR$/49. Group Anagrams/src/com/oyoungy/Solution.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/50. Pow(x, n)/src/com/oyoungy/Solution.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/51. N-Queens/src/com/oyoungy/Solution.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>j==326</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i==326</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/java.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://H:/mylibpath/java-source-code/src/java.base/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4">
-          <caret line="151" column="11" selection-start-line="151" selection-start-column="11" selection-end-line="151" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -282,20 +338,110 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/47. Permutations II/src/com/oyoungy/Solution.java">
+    <entry file="file://H:/mylibpath/java-source-code/src/java.base/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="24" column="38" lean-forward="true" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="3125">
+          <caret line="151" column="11" selection-start-line="151" selection-start-column="11" selection-end-line="151" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/48. Rotate Image/src/com/oyoungy/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/46. Permutations/src/com/oyoungy/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="365">
-          <caret line="33" column="35" lean-forward="true" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
+          <caret line="33" column="35" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/47. Permutations II/src/com/oyoungy/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/mylibpath/java-source-code/src/java.base/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="69" column="38" selection-start-line="69" selection-start-column="38" selection-end-line="69" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/mylibpath/java-source-code/src/java.base/java/util/TreeMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="2396" column="30" lean-forward="true" selection-start-line="2396" selection-start-column="30" selection-end-line="2396" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/49. Group Anagrams/src/com/oyoungy/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1500">
+          <caret line="60" column="29" selection-start-line="60" selection-start-column="29" selection-end-line="60" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/50. Pow(x, n)/src/com/oyoungy/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/mylibpath/java-source-code/src/java.base/java/util/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2325">
+          <caret line="126" column="59" selection-start-line="126" selection-start-column="59" selection-end-line="126" selection-end-column="59" />
+          <folding>
+            <element signature="e#3513#3514#0" expanded="true" />
+            <element signature="e#3571#3572#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/mylibpath/java-source-code/src/java.base/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="242" column="48" selection-start-line="242" selection-start-column="48" selection-end-line="242" selection-end-column="48" />
+          <folding>
+            <element signature="e#24220#24221#0" expanded="true" />
+            <element signature="e#24285#24286#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/51. N-Queens/src/com/oyoungy/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/52. N-Queens II/src/com/oyoungy/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
