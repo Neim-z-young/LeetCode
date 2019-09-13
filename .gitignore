@@ -1,5 +1,6 @@
 .vscode/ipch/
 测试文件夹/
+*/out/
 *.swp
 *.exe
 *.ilk
