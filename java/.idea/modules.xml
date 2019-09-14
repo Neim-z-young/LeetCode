@@ -27,6 +27,10 @@
       <module fileurl="file://$PROJECT_DIR$/67. Add Binary/67. Add Binary.iml" filepath="$PROJECT_DIR$/67. Add Binary/67. Add Binary.iml" />
       <module fileurl="file://$PROJECT_DIR$/68. Text Justification/68. Text Justification.iml" filepath="$PROJECT_DIR$/68. Text Justification/68. Text Justification.iml" />
       <module fileurl="file://$PROJECT_DIR$/69. Sqrt(x)/69. Sqrt(x).iml" filepath="$PROJECT_DIR$/69. Sqrt(x)/69. Sqrt(x).iml" />
+      <module fileurl="file://$PROJECT_DIR$/70. Climbing Stairs/70. Climbing Stairs.iml" filepath="$PROJECT_DIR$/70. Climbing Stairs/70. Climbing Stairs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/71. Simplify Path/71. Simplify Path.iml" filepath="$PROJECT_DIR$/71. Simplify Path/71. Simplify Path.iml" />
+      <module fileurl="file://$PROJECT_DIR$/72. Edit Distance/72. Edit Distance.iml" filepath="$PROJECT_DIR$/72. Edit Distance/72. Edit Distance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/73. Set Matrix Zeroes/73. Set Matrix Zeroes.iml" filepath="$PROJECT_DIR$/73. Set Matrix Zeroes/73. Set Matrix Zeroes.iml" />
       <module fileurl="file://$PROJECT_DIR$/java.iml" filepath="$PROJECT_DIR$/java.iml" />
     </modules>
   </component>
