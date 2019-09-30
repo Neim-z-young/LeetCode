@@ -31,6 +31,10 @@
       <module fileurl="file://$PROJECT_DIR$/71. Simplify Path/71. Simplify Path.iml" filepath="$PROJECT_DIR$/71. Simplify Path/71. Simplify Path.iml" />
       <module fileurl="file://$PROJECT_DIR$/72. Edit Distance/72. Edit Distance.iml" filepath="$PROJECT_DIR$/72. Edit Distance/72. Edit Distance.iml" />
       <module fileurl="file://$PROJECT_DIR$/73. Set Matrix Zeroes/73. Set Matrix Zeroes.iml" filepath="$PROJECT_DIR$/73. Set Matrix Zeroes/73. Set Matrix Zeroes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/74. Search a 2D Matrix/74. Search a 2D Matrix.iml" filepath="$PROJECT_DIR$/74. Search a 2D Matrix/74. Search a 2D Matrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/75. Sort Colors/75. Sort Colors.iml" filepath="$PROJECT_DIR$/75. Sort Colors/75. Sort Colors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/77. Combinations/77. Combinations.iml" filepath="$PROJECT_DIR$/77. Combinations/77. Combinations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/78. Subsets/78. Subsets.iml" filepath="$PROJECT_DIR$/78. Subsets/78. Subsets.iml" />
       <module fileurl="file://$PROJECT_DIR$/java.iml" filepath="$PROJECT_DIR$/java.iml" />
     </modules>
   </component>
