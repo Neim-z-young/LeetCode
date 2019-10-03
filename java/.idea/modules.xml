@@ -41,6 +41,9 @@
       <module fileurl="file://$PROJECT_DIR$/82. Remove Duplicates from Sorted List II/82. Remove Duplicates from Sorted List II.iml" filepath="$PROJECT_DIR$/82. Remove Duplicates from Sorted List II/82. Remove Duplicates from Sorted List II.iml" />
       <module fileurl="file://$PROJECT_DIR$/83. Remove Duplicates from Sorted List/83. Remove Duplicates from Sorted List.iml" filepath="$PROJECT_DIR$/83. Remove Duplicates from Sorted List/83. Remove Duplicates from Sorted List.iml" />
       <module fileurl="file://$PROJECT_DIR$/84. Largest Rectangle in Histogram/84. Largest Rectangle in Histogram.iml" filepath="$PROJECT_DIR$/84. Largest Rectangle in Histogram/84. Largest Rectangle in Histogram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/86. Partition List/86. Partition List.iml" filepath="$PROJECT_DIR$/86. Partition List/86. Partition List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/90. Subsets II/90. Subsets II.iml" filepath="$PROJECT_DIR$/90. Subsets II/90. Subsets II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/91. Decode Ways/91. Decode Ways.iml" filepath="$PROJECT_DIR$/91. Decode Ways/91. Decode Ways.iml" />
       <module fileurl="file://$PROJECT_DIR$/java.iml" filepath="$PROJECT_DIR$/java.iml" />
     </modules>
   </component>
