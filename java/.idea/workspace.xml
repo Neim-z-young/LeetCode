@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7868326-51fc-489e-aebf-e5115f24f00e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/92. Reverse Linked List II/92. Reverse Linked List II.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/92. Reverse Linked List II/src/com/oyoungy/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/93. Restore IP Addresses/93. Restore IP Addresses.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/93. Restore IP Addresses/src/com/oyoungy/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/95. Unique Binary Search Trees II/95. Unique Binary Search Trees II.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/95. Unique Binary Search Trees II/src/com/oyoungy/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/96. Unique Binary Search Trees/96. Unique Binary Search Trees.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/96. Unique Binary Search Trees/src/com/oyoungy/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/100. Same Tree/src/com/oyoungy/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/98. Validate Binary Search Tree/98. Validate Binary Search Tree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/98. Validate Binary Search Tree/src/com/oyoungy/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/99. Recover Binary Search Tree/src/com/oyoungy/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -28,7 +24,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/95. Unique Binary Search Trees II/src/com/oyoungy/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="383">
+            <state relative-caret-position="1325">
               <caret line="54" column="9" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -37,11 +33,50 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/96. Unique Binary Search Trees/src/com/oyoungy/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="250">
-              <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+              <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/98. Validate Binary Search Tree/src/com/oyoungy/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="27" selection-end-column="21" />
+              <folding>
+                <element signature="e#112#113#0" expanded="true" />
+                <element signature="e#135#136#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/99. Recover Binary Search Tree/src/com/oyoungy/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+              <folding>
+                <element signature="e#112#113#0" expanded="true" />
+                <element signature="e#135#136#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/100. Same Tree/src/com/oyoungy/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+              <folding>
+                <element signature="e#112#113#0" expanded="true" />
+                <element signature="e#135#136#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -108,6 +143,9 @@
         <option value="$PROJECT_DIR$/93. Restore IP Addresses/src/com/oyoungy/Solution.java" />
         <option value="$PROJECT_DIR$/95. Unique Binary Search Trees II/src/com/oyoungy/Solution.java" />
         <option value="$PROJECT_DIR$/96. Unique Binary Search Trees/src/com/oyoungy/Solution.java" />
+        <option value="$PROJECT_DIR$/98. Validate Binary Search Tree/src/com/oyoungy/Solution.java" />
+        <option value="$PROJECT_DIR$/99. Recover Binary Search Tree/src/com/oyoungy/Solution.java" />
+        <option value="$PROJECT_DIR$/100. Same Tree/src/com/oyoungy/Solution.java" />
       </list>
     </option>
   </component>
@@ -120,8 +158,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="859" />
-    <option name="y" value="33" />
+    <option name="x" value="484" />
+    <option name="y" value="77" />
     <option name="width" value="1057" />
     <option name="height" value="876" />
   </component>
@@ -131,25 +169,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="96. Unique Binary Search Trees" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Course" />
       <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -172,7 +195,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (1)">
+  <component name="RunManager" selected="Application.Solution (2)">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.oyoungy.Solution" />
       <module name="96. Unique Binary Search Trees" />
@@ -180,9 +203,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.oyoungy.Solution" />
-      <module name="81. Search in Rotated Sorted Array II" />
+      <module name="98. Validate Binary Search Tree" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -210,11 +233,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (4)" />
-        <item itemvalue="Application.Solution (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -231,8 +254,8 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7913907" visible="true" weight="0.2675906" />
-      <window_info id="Structure" order="1" sideWeight="0.20860927" side_tool="true" visible="true" weight="0.2675906" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.79028696" visible="true" weight="0.27025586" />
+      <window_info id="Structure" order="1" sideWeight="0.20971303" side_tool="true" visible="true" weight="0.27025586" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
@@ -448,6 +471,12 @@
           <properties />
           <option name="timeStamp" value="81" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/98. Validate Binary Search Tree/src/com/oyoungy/Solution.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -476,30 +505,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://H:/mylibpath/java-source-code/src/java.base/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3125">
-          <caret line="151" column="11" selection-start-line="151" selection-start-column="11" selection-end-line="151" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/48. Rotate Image/src/com/oyoungy/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/46. Permutations/src/com/oyoungy/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="33" column="35" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/47. Permutations II/src/com/oyoungy/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="550">
@@ -871,16 +876,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/95. Unique Binary Search Trees II/src/com/oyoungy/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="54" column="9" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/93. Restore IP Addresses/src/com/oyoungy/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -891,10 +886,53 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/95. Unique Binary Search Trees II/src/com/oyoungy/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1325">
+          <caret line="54" column="9" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/96. Unique Binary Search Trees/src/com/oyoungy/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
-          <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/98. Validate Binary Search Tree/src/com/oyoungy/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="27" selection-end-column="21" />
+          <folding>
+            <element signature="e#112#113#0" expanded="true" />
+            <element signature="e#135#136#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/99. Recover Binary Search Tree/src/com/oyoungy/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding>
+            <element signature="e#112#113#0" expanded="true" />
+            <element signature="e#135#136#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/100. Same Tree/src/com/oyoungy/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="e#112#113#0" expanded="true" />
+            <element signature="e#135#136#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
