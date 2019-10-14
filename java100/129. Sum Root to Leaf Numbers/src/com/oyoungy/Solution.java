@@ -8,7 +8,7 @@ class TreeNode {
   }
 
 public class Solution {
-    static void main(String[] args) {
+    public static void main(String[] args) {
         Solution ans = new Solution();
         System.out.println();
     }
