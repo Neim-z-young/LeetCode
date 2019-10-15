@@ -2,16 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d1b6d75-1fd3-49c7-921b-a003a988e4db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/133. Clone Graph/133. Clone Graph.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/133. Clone Graph/src/com/oyoungy/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/134. Gas Station/134. Gas Station.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/134. Gas Station/src/com/oyoungy/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/135. Candy/135. Candy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/135. Candy/src/com/oyoungy/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/136. Single Number/136. Single Number.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/136. Single Number/src/com/oyoungy/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/137. Single Number II/137. Single Number II.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/137. Single Number II/src/com/oyoungy/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/138. Copy List with Random Pointer/138. Copy List with Random Pointer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/138. Copy List with Random Pointer/src/com/oyoungy/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/139. Word Break/139. Word Break.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/139. Word Break/src/com/oyoungy/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/129. Sum Root to Leaf Numbers/src/com/oyoungy/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/129. Sum Root to Leaf Numbers/src/com/oyoungy/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/130. Surrounded Regions/src/com/oyoungy/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/130. Surrounded Regions/src/com/oyoungy/Solution.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +60,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Debugger" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -74,10 +74,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (1)">
+  <component name="RunManager" selected="Application.Solution (2)">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.oyoungy.Solution" />
       <module name="135. Candy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.oyoungy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.oyoungy.Solution" />
+      <module name="137. Single Number II" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.oyoungy.*" />
@@ -105,9 +118,11 @@
     <list>
       <item itemvalue="Application.Solution" />
       <item itemvalue="Application.Solution (1)" />
+      <item itemvalue="Application.Solution (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution" />
