@@ -31,6 +31,7 @@
       <module fileurl="file://$PROJECT_DIR$/143. Reorder List/143. Reorder List.iml" filepath="$PROJECT_DIR$/143. Reorder List/143. Reorder List.iml" />
       <module fileurl="file://$PROJECT_DIR$/144. Binary Tree Preorder Traversal/144. Binary Tree Preorder Traversal.iml" filepath="$PROJECT_DIR$/144. Binary Tree Preorder Traversal/144. Binary Tree Preorder Traversal.iml" />
       <module fileurl="file://$PROJECT_DIR$/145. Binary Tree Postorder Traversal/145. Binary Tree Postorder Traversal.iml" filepath="$PROJECT_DIR$/145. Binary Tree Postorder Traversal/145. Binary Tree Postorder Traversal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/146. LRU Cache/146. LRU Cache.iml" filepath="$PROJECT_DIR$/146. LRU Cache/146. LRU Cache.iml" />
       <module fileurl="file://$PROJECT_DIR$/java100.iml" filepath="$PROJECT_DIR$/java100.iml" />
     </modules>
   </component>
