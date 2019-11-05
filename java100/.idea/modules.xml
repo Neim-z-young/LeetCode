@@ -32,6 +32,9 @@
       <module fileurl="file://$PROJECT_DIR$/144. Binary Tree Preorder Traversal/144. Binary Tree Preorder Traversal.iml" filepath="$PROJECT_DIR$/144. Binary Tree Preorder Traversal/144. Binary Tree Preorder Traversal.iml" />
       <module fileurl="file://$PROJECT_DIR$/145. Binary Tree Postorder Traversal/145. Binary Tree Postorder Traversal.iml" filepath="$PROJECT_DIR$/145. Binary Tree Postorder Traversal/145. Binary Tree Postorder Traversal.iml" />
       <module fileurl="file://$PROJECT_DIR$/146. LRU Cache/146. LRU Cache.iml" filepath="$PROJECT_DIR$/146. LRU Cache/146. LRU Cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/147. Insertion Sort List/147. Insertion Sort List.iml" filepath="$PROJECT_DIR$/147. Insertion Sort List/147. Insertion Sort List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/148. Sort List/148. Sort List.iml" filepath="$PROJECT_DIR$/148. Sort List/148. Sort List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/150. Evaluate Reverse Polish Notation/150. Evaluate Reverse Polish Notation.iml" filepath="$PROJECT_DIR$/150. Evaluate Reverse Polish Notation/150. Evaluate Reverse Polish Notation.iml" />
       <module fileurl="file://$PROJECT_DIR$/java100.iml" filepath="$PROJECT_DIR$/java100.iml" />
     </modules>
   </component>
