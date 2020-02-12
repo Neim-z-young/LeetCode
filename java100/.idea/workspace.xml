@@ -2,13 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d1b6d75-1fd3-49c7-921b-a003a988e4db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/153. Find Minimum in Rotated Sorted Array/src/com/oyoungy/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/154. Find Minimum in Rotated Sorted Array II/154. Find Minimum in Rotated Sorted Array II.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/154. Find Minimum in Rotated Sorted Array II/src/com/oyoungy/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/155. Min Stack/155. Min Stack.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/155. Min Stack/src/com/oyoungy/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/160. Intersection of Two Linked Lists/160. Intersection of Two Linked Lists.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/160. Intersection of Two Linked Lists/src/com/oyoungy/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/162. Find Peak Element/162. Find Peak Element.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/162. Find Peak Element/src/com/oyoungy/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/165. Compare Version Numbers/165. Compare Version Numbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/165. Compare Version Numbers/src/com/oyoungy/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/166. Fraction to Recurring Decimal/166. Fraction to Recurring Decimal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/166. Fraction to Recurring Decimal/src/com/oyoungy/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167. Two Sum II - Input array is sorted/167. Two Sum II - Input array is sorted.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167. Two Sum II - Input array is sorted/src/com/oyoungy/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/168. Excel Sheet Column Title/168. Excel Sheet Column Title.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/168. Excel Sheet Column Title/src/com/oyoungy/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/169. Majority Element/169. Majority Element.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/169. Majority Element/src/com/oyoungy/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -29,11 +34,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/153. Find Minimum in Rotated Sorted Array/src/com/oyoungy/Solution.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/168. Excel Sheet Column Title/src/com/oyoungy/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+            <state relative-caret-position="-32">
+              <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/169. Majority Element/src/com/oyoungy/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -67,6 +81,13 @@
         <option value="$PROJECT_DIR$/154. Find Minimum in Rotated Sorted Array II/src/com/oyoungy/Solution.java" />
         <option value="$PROJECT_DIR$/155. Min Stack/src/com/oyoungy/Solution.java" />
         <option value="$PROJECT_DIR$/160. Intersection of Two Linked Lists/src/com/oyoungy/Solution.java" />
+        <option value="$PROJECT_DIR$/162. Find Peak Element/src/com/oyoungy/Solution.java" />
+        <option value="$PROJECT_DIR$/164. Maximum Gap/src/com/oyoungy/Solution.java" />
+        <option value="$PROJECT_DIR$/165. Compare Version Numbers/src/com/oyoungy/Solution.java" />
+        <option value="$PROJECT_DIR$/166. Fraction to Recurring Decimal/src/com/oyoungy/Solution.java" />
+        <option value="$PROJECT_DIR$/167. Two Sum II - Input array is sorted/src/com/oyoungy/Solution.java" />
+        <option value="$PROJECT_DIR$/168. Excel Sheet Column Title/src/com/oyoungy/Solution.java" />
+        <option value="$PROJECT_DIR$/169. Majority Element/src/com/oyoungy/Solution.java" />
       </list>
     </option>
   </component>
@@ -94,6 +115,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Course" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -105,9 +129,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Course" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -131,68 +152,56 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (6)">
+  <component name="RunManager" selected="Application.Solution (4)">
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.oyoungy.Solution" />
+      <module name="165. Compare Version Numbers" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.oyoungy.Solution" />
-      <module name="137. Single Number II" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.oyoungy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <module name="166. Fraction to Recurring Decimal" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.oyoungy.Solution" />
-      <module name="143. Reorder List" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.oyoungy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <module name="168. Excel Sheet Column Title" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.oyoungy.Solution" />
-      <module name="146. LRU Cache" />
+      <module name="169. Majority Element" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.oyoungy.Solution" />
-      <module name="150. Evaluate Reverse Polish Notation" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (6)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.oyoungy.Solution" />
-      <module name="151. Reverse Words in a String" />
+      <module name="162. Find Peak Element" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.Solution (1)" />
       <item itemvalue="Application.Solution (2)" />
       <item itemvalue="Application.Solution (3)" />
       <item itemvalue="Application.Solution (4)" />
-      <item itemvalue="Application.Solution (5)" />
-      <item itemvalue="Application.Solution (6)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution (6)" />
-        <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
+        <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -212,7 +221,7 @@
   <component name="ToolWindowManager">
     <frame x="86" y="-8" width="1842" height="1096" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.32799146" visible="true" weight="0.28282827" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.32799146" visible="true" weight="0.28956228" />
       <window_info id="Structure" order="1" sideWeight="0.6720086" side_tool="true" weight="0.24973656" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -551,10 +560,56 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/164. Maximum Gap/src/com/oyoungy/Solution.java" />
     <entry file="file://$PROJECT_DIR$/153. Find Minimum in Rotated Sorted Array/src/com/oyoungy/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="484">
-          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/162. Find Peak Element/src/com/oyoungy/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="35" column="7" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/165. Compare Version Numbers/src/com/oyoungy/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/166. Fraction to Recurring Decimal/src/com/oyoungy/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="15" column="64" selection-start-line="15" selection-start-column="64" selection-end-line="15" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/167. Two Sum II - Input array is sorted/src/com/oyoungy/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/168. Excel Sheet Column Title/src/com/oyoungy/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-32">
+          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/169. Majority Element/src/com/oyoungy/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
         </state>
       </provider>
     </entry>
