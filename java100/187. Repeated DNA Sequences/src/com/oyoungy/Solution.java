@@ -1,24 +1,37 @@
 package com.oyoungy;
 
-import com.sun.source.tree.Tree;
 
-import java.util.ArrayList;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Set;
+import java.util.*;
 
 public class Solution {
     public static void main(String[] args) {
         Solution ans = new Solution();
-        List list = ans.findRepeatedDnaSequences("AAAAACCCCCAAAAACCCCCCAAAAAGGGTTT");
-        List list2 = ans.findRepeatedDnaSequences("AAAAAAAAAAA");
+        List list = ans.findRepeatedDnaSequences2("AAAAACCCCCAAAAACCCCCCAAAAAGGGTTT");
+        List list2 = ans.findRepeatedDnaSequences2("AAAAAAAAAAA");
         System.out.println();
     }
 
-    private Set<String> set;
+    //using space to exchange time
+    public List<String> findRepeatedDnaSequences2(String s) {
+
+        Set<String> set = new HashSet<>(), subStrSet = new HashSet<>();
+        final int LEN = 10;
+        for(int i=0; i<s.length()-LEN + 1; i++){
+            String sub = s.substring(i, i+LEN);
+            if(!set.contains(sub))
+                if(subStrSet.contains(sub))
+                    set.add(sub);
+                else
+                    subStrSet.add(sub);
+        }
+        List<String> list = new ArrayList<>(set.size());
+        list.addAll(set);
+        return list;
+    }
+
     // time limit exceeded
     public List<String> findRepeatedDnaSequences(String s) {
-        set = new HashSet<>();
+        Set<String> set = new HashSet<>();
         final int LEN = 10;
         for(int i=0; i<s.length()-LEN; i++){
             String sub = s.substring(i, i+LEN);
@@ -86,7 +99,7 @@ public class Solution {
 
 // time limit exceeded
     public List<String> findRepeatedDnaSequences1(String s) {
-        set = new HashSet<>();
+        Set<String> set = new HashSet<>();
         final int LEN = 10;
         for(int i=0; i<s.length()-LEN; i++){
             String sub = s.substring(i, i+LEN);
