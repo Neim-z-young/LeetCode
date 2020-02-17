@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7868326-51fc-489e-aebf-e5115f24f00e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java100/190. Reverse Bits/190. Reverse Bits.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java100/190. Reverse Bits/src/com/oyoungy/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java100/191. Number of 1 Bits/191. Number of 1 Bits.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java100/191. Number of 1 Bits/src/com/oyoungy/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java100/198. House Robber/198. House Robber.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java100/198. House Robber/src/com/oyoungy/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java100/199. Binary Tree Right Side View/src/com/oyoungy/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java100/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java100/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../java100/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java100/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -20,7 +27,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/95. Unique Binary Search Trees II/src/com/oyoungy/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="826">
+            <state relative-caret-position="1166">
               <caret line="54" column="9" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -130,6 +137,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Course" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -142,8 +151,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -226,8 +233,8 @@
   <component name="ToolWindowManager">
     <frame x="86" y="-8" width="1842" height="1096" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.77991456" visible="true" weight="0.29910213" />
-      <window_info id="Structure" order="1" sideWeight="0.22008547" side_tool="true" visible="true" weight="0.29910213" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.77884614" visible="true" weight="0.30246913" />
+      <window_info id="Structure" order="1" sideWeight="0.22115384" side_tool="true" visible="true" weight="0.30246913" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
@@ -889,7 +896,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/95. Unique Binary Search Trees II/src/com/oyoungy/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="826">
+        <state relative-caret-position="1166">
           <caret line="54" column="9" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
