@@ -2,18 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d1b6d75-1fd3-49c7-921b-a003a988e4db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/190. Reverse Bits/190. Reverse Bits.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/190. Reverse Bits/src/com/oyoungy/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/191. Number of 1 Bits/191. Number of 1 Bits.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/191. Number of 1 Bits/src/com/oyoungy/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/198. House Robber/198. House Robber.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/198. House Robber/src/com/oyoungy/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/199. Binary Tree Right Side View/199. Binary Tree Right Side View.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/199. Binary Tree Right Side View/src/com/oyoungy/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/200. Number of Islands/200. Number of Islands.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/200. Number of Islands/src/com/oyoungy/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java200/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java200/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java200/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java200/java200.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,7 +30,7 @@
         <entry file="file://$PROJECT_DIR$/200. Number of Islands/src/com/oyoungy/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="66">
-              <caret line="3" column="44" lean-forward="true" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+              <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -119,15 +112,15 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="Course" />
       <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="12" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -214,7 +207,7 @@
   <component name="ToolWindowManager">
     <frame x="86" y="-8" width="1842" height="1096" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4745167" visible="true" weight="0.3131313" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4745167" visible="true" weight="0.3237935" />
       <window_info id="Structure" order="1" sideWeight="0.5254833" side_tool="true" weight="0.3030303" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -646,13 +639,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/192. Word Frequency/src/com/oyoungy/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/192. Word Frequency/src/com/oyoungy/Solution.java" />
     <entry file="file://$PROJECT_DIR$/190. Reverse Bits/src/com/oyoungy/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="716">
@@ -682,7 +669,7 @@
     <entry file="file://$PROJECT_DIR$/200. Number of Islands/src/com/oyoungy/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
-          <caret line="3" column="44" lean-forward="true" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+          <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
         </state>
       </provider>
     </entry>
@@ -703,6 +690,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
+          <last-edited>No facets are configured</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -741,6 +729,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
