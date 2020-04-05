@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37267663-6829-4606-92e1-f9f3ab6fd59d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/206. Reverse Linked List/206. Reverse Linked List.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/206. Reverse Linked List/src/com/oyoungy/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/207. Course Schedule/207. Course Schedule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/207. Course Schedule/src/com/oyoungy/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/208. Implement Trie (Prefix Tree)/208. Implement Trie (Prefix Tree).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/208. Implement Trie (Prefix Tree)/src/com/oyoungy/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/209. Minimum Size Subarray Sum/209. Minimum Size Subarray Sum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/209. Minimum Size Subarray Sum/src/com/oyoungy/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/210. Course Schedule II/src/com/oyoungy/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -39,11 +41,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/207. Course Schedule/src/com/oyoungy/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="54" column="9" lean-forward="true" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
+            <state relative-caret-position="1298">
+              <caret line="59" column="43" lean-forward="true" selection-start-line="59" selection-start-column="43" selection-end-line="59" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/210. Course Schedule II/src/com/oyoungy/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="430">
+              <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -82,6 +96,9 @@
         <option value="$PROJECT_DIR$/205. Isomorphic Strings/src/com/oyoungy/Solution.java" />
         <option value="$PROJECT_DIR$/206. Reverse Linked List/src/com/oyoungy/Solution.java" />
         <option value="$PROJECT_DIR$/207. Course Schedule/src/com/oyoungy/Solution.java" />
+        <option value="$PROJECT_DIR$/208. Implement Trie (Prefix Tree)/src/com/oyoungy/Solution.java" />
+        <option value="$PROJECT_DIR$/209. Minimum Size Subarray Sum/src/com/oyoungy/Solution.java" />
+        <option value="$PROJECT_DIR$/210. Course Schedule II/src/com/oyoungy/Solution.java" />
       </list>
     </option>
   </component>
@@ -105,9 +122,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Course" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -120,10 +134,44 @@
               <item name="java200" type="462c0819:PsiDirectoryNode" />
               <item name="207. Course Schedule" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="java200" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java200" type="462c0819:PsiDirectoryNode" />
+              <item name="207. Course Schedule" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java200" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java200" type="462c0819:PsiDirectoryNode" />
+              <item name="207. Course Schedule" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="oyoungy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java200" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java200" type="462c0819:PsiDirectoryNode" />
+              <item name="210. Course Schedule II" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java200" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java200" type="462c0819:PsiDirectoryNode" />
+              <item name="210. Course Schedule II" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java200" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java200" type="462c0819:PsiDirectoryNode" />
+              <item name="210. Course Schedule II" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="oyoungy" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Course" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -145,7 +193,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (2)">
+  <component name="RunManager" selected="Application.Solution (3)">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.oyoungy.Solution" />
       <module name="204. Count Primes" />
@@ -160,6 +208,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.oyoungy.Solution" />
+      <module name="209. Minimum Size Subarray Sum" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.oyoungy.Solution" />
       <module name="201. Bitwise AND of Numbers Range" />
@@ -169,6 +224,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
@@ -188,7 +244,7 @@
   <component name="ToolWindowManager">
     <frame x="86" y="-8" width="1842" height="1096" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2519641" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25476992" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -196,7 +252,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3653846" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.2596154" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2948718" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -256,13 +312,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/205. Isomorphic Strings/src/com/oyoungy/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/203. Remove Linked List Elements/src/com/oyoungy/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -277,6 +326,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/205. Isomorphic Strings/src/com/oyoungy/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/208. Implement Trie (Prefix Tree)/src/com/oyoungy/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="54" column="38" selection-start-line="54" selection-start-column="38" selection-end-line="54" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/209. Minimum Size Subarray Sum/src/com/oyoungy/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/206. Reverse Linked List/src/com/oyoungy/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
@@ -286,8 +356,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/207. Course Schedule/src/com/oyoungy/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="54" column="9" lean-forward="true" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
+        <state relative-caret-position="1298">
+          <caret line="59" column="43" lean-forward="true" selection-start-line="59" selection-start-column="43" selection-end-line="59" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/210. Course Schedule II/src/com/oyoungy/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
