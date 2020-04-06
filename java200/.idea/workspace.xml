@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37267663-6829-4606-92e1-f9f3ab6fd59d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/208. Implement Trie (Prefix Tree)/208. Implement Trie (Prefix Tree).iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/208. Implement Trie (Prefix Tree)/src/com/oyoungy/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/209. Minimum Size Subarray Sum/209. Minimum Size Subarray Sum.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/209. Minimum Size Subarray Sum/src/com/oyoungy/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/210. Course Schedule II/src/com/oyoungy/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/211. Add and Search Word - Data structure design/211. Add and Search Word - Data structure design.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/211. Add and Search Word - Data structure design/src/com/oyoungy/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/213. House Robber II/213. House Robber II.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/213. House Robber II/src/com/oyoungy/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/215. Kth Largest Element in an Array/215. Kth Largest Element in an Array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/215. Kth Largest Element in an Array/src/com/oyoungy/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -24,52 +24,36 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/204. Count Primes/src/com/oyoungy/Solution.java">
+        <entry file="file://$PROJECT_DIR$/211. Add and Search Word - Data structure design/src/com/oyoungy/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="682">
-              <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/206. Reverse Linked List/src/com/oyoungy/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/207. Course Schedule/src/com/oyoungy/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1298">
-              <caret line="59" column="43" lean-forward="true" selection-start-line="59" selection-start-column="43" selection-end-line="59" selection-end-column="43" />
+            <state relative-caret-position="638">
+              <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#336#337#0" expanded="true" />
+                <element signature="e#379#380#0" expanded="true" />
+                <element signature="e#467#468#0" expanded="true" />
+                <element signature="e#515#516#0" expanded="true" />
+                <element signature="e#689#690#0" expanded="true" />
+                <element signature="e#728#729#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/213. House Robber II/src/com/oyoungy/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/210. Course Schedule II/src/com/oyoungy/Solution.java">
+        <entry file="file://$PROJECT_DIR$/215. Kth Largest Element in an Array/src/com/oyoungy/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="430">
-              <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/205. Isomorphic Strings/src/com/oyoungy/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+            <state relative-caret-position="364">
+              <caret line="34" column="49" lean-forward="true" selection-start-line="34" selection-start-column="49" selection-end-line="34" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -99,6 +83,9 @@
         <option value="$PROJECT_DIR$/208. Implement Trie (Prefix Tree)/src/com/oyoungy/Solution.java" />
         <option value="$PROJECT_DIR$/209. Minimum Size Subarray Sum/src/com/oyoungy/Solution.java" />
         <option value="$PROJECT_DIR$/210. Course Schedule II/src/com/oyoungy/Solution.java" />
+        <option value="$PROJECT_DIR$/211. Add and Search Word - Data structure design/src/com/oyoungy/Solution.java" />
+        <option value="$PROJECT_DIR$/213. House Robber II/src/com/oyoungy/Solution.java" />
+        <option value="$PROJECT_DIR$/215. Kth Largest Element in an Array/src/com/oyoungy/Solution.java" />
       </list>
     </option>
   </component>
@@ -122,6 +109,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -132,46 +121,13 @@
             <path>
               <item name="java200" type="b2602c69:ProjectViewProjectNode" />
               <item name="java200" type="462c0819:PsiDirectoryNode" />
-              <item name="207. Course Schedule" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java200" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java200" type="462c0819:PsiDirectoryNode" />
-              <item name="207. Course Schedule" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java200" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java200" type="462c0819:PsiDirectoryNode" />
-              <item name="207. Course Schedule" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="oyoungy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java200" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java200" type="462c0819:PsiDirectoryNode" />
-              <item name="210. Course Schedule II" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java200" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java200" type="462c0819:PsiDirectoryNode" />
-              <item name="210. Course Schedule II" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java200" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java200" type="462c0819:PsiDirectoryNode" />
-              <item name="210. Course Schedule II" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="oyoungy" type="462c0819:PsiDirectoryNode" />
+              <item name="215. Kth Largest Element in an Array" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Course" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -193,7 +149,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (3)">
+  <component name="RunManager" selected="Application.Solution (4)">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.oyoungy.Solution" />
       <module name="204. Count Primes" />
@@ -215,6 +171,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.oyoungy.Solution" />
+      <module name="215. Kth Largest Element in an Array" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.oyoungy.Solution" />
       <module name="201. Bitwise AND of Numbers Range" />
@@ -224,6 +187,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
@@ -244,14 +208,14 @@
   <component name="ToolWindowManager">
     <frame x="86" y="-8" width="1842" height="1096" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25476992" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25757575" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3653846" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26175213" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.2948718" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -319,20 +283,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/204. Count Primes/src/com/oyoungy/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/205. Isomorphic Strings/src/com/oyoungy/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/208. Implement Trie (Prefix Tree)/src/com/oyoungy/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1188">
@@ -347,6 +297,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/204. Count Primes/src/com/oyoungy/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/206. Reverse Linked List/src/com/oyoungy/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
@@ -356,21 +313,57 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/207. Course Schedule/src/com/oyoungy/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1298">
-          <caret line="59" column="43" lean-forward="true" selection-start-line="59" selection-start-column="43" selection-end-line="59" selection-end-column="43" />
+        <state relative-caret-position="1276">
+          <caret line="59" column="43" selection-start-line="59" selection-start-column="43" selection-end-line="59" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/205. Isomorphic Strings/src/com/oyoungy/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/210. Course Schedule II/src/com/oyoungy/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="430">
-          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/211. Add and Search Word - Data structure design/src/com/oyoungy/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+          <folding>
+            <element signature="e#336#337#0" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
+            <element signature="e#467#468#0" expanded="true" />
+            <element signature="e#515#516#0" expanded="true" />
+            <element signature="e#689#690#0" expanded="true" />
+            <element signature="e#728#729#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/213. House Robber II/src/com/oyoungy/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/215. Kth Largest Element in an Array/src/com/oyoungy/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="34" column="49" lean-forward="true" selection-start-line="34" selection-start-column="49" selection-end-line="34" selection-end-column="49" />
         </state>
       </provider>
     </entry>
